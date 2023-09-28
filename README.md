@@ -22,11 +22,11 @@ To view the webpage locally or deploy it, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/lucas-personal-webpage.git
+   git clone https://github.com/Lucccccys/Personal-Webpage.git
 
 2. Open the project folder in your preferred code editor.
 
-3. Open any of the HTML files (e.g., `index.html`, `about.html`, `projects.html`, `contact.html`) in your web browser to view the webpage.
+3. Open any of the HTML files (e.g., `Home page.html`, `about.html`, `projects.html`, `contact.html`) in your web browser to view the webpage.
 
 4. Customize the content in the HTML files to reflect your own information and projects.
 
