@@ -1,0 +1,41 @@
+/* style.css */
+body {
+    background-color: black;
+    color: white;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: pink;
+    text-align: center;
+}
+
+.navbar {
+    background-color: pink;
+    padding: 10px;
+    text-align: center;
+}
+
+.navbar a {
+    color: white;
+    text-decoration: none;
+    margin: 10px;
+}
+
+.content {
+    text-align: center;
+}
+.section {
+    background-color: rgba(255, 255, 255, 0.1);
+    padding: 20px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.section h2 {
+    color: pink;
+}
+.section p {
+    margin-top: 10px;
+}
