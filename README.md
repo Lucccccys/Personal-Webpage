@@ -8,7 +8,7 @@ Welcome to Lucas's Personal Webpage project. This project showcases Lucas's back
 - [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Customization](#customization)
-- [v](#contributing)
+- [Contributing](#contributing)
 - [License](#license)
 
 ## About
